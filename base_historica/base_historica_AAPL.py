@@ -13,4 +13,4 @@ df_acao = df_acao[['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']]
 df_acao.reset_index(inplace=True)
 df_acao.columns = ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']
 
-df_acao.to_csv(f"{acao}_7_years_data.csv", index=False)
+df_acao.to_csv(f"base_historica/{acao}_7anos.csv", index=False)
