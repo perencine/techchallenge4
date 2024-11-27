@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/46846f69e1b04c1d9093f4f5f113422c/artifacts
+end_time: 1732672663979
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 46846f69e1b04c1d9093f4f5f113422c
+run_name: gifted-worm-891
+run_uuid: 46846f69e1b04c1d9093f4f5f113422c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732672662516
+status: 4
+tags: []
+user_id: vitor

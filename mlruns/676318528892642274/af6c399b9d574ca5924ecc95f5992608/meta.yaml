@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/af6c399b9d574ca5924ecc95f5992608/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: af6c399b9d574ca5924ecc95f5992608
+run_name: merciful-midge-853
+run_uuid: af6c399b9d574ca5924ecc95f5992608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732673256616
+status: 1
+tags: []
+user_id: vitor

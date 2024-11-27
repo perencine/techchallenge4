@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/de2055b715f74b7685349abb609a804e/artifacts
+end_time: 1732672180312
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: de2055b715f74b7685349abb609a804e
+run_name: charming-shrimp-308
+run_uuid: de2055b715f74b7685349abb609a804e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732672147069
+status: 4
+tags: []
+user_id: vitor

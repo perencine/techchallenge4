@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/2d44f1ebb92d4351a711e2713c91e722/artifacts
+end_time: 1732674411977
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 2d44f1ebb92d4351a711e2713c91e722
+run_name: abrasive-yak-782
+run_uuid: 2d44f1ebb92d4351a711e2713c91e722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732674387055
+status: 3
+tags: []
+user_id: vitor

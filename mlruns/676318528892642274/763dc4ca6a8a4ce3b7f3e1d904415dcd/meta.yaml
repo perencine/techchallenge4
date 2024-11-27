@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/763dc4ca6a8a4ce3b7f3e1d904415dcd/artifacts
+end_time: 1732672394417
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 763dc4ca6a8a4ce3b7f3e1d904415dcd
+run_name: masked-swan-215
+run_uuid: 763dc4ca6a8a4ce3b7f3e1d904415dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732672367297
+status: 4
+tags: []
+user_id: vitor

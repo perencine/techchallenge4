@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/6fcde88897dd420f8aa74ca687d3feb4/artifacts
+end_time: 1732674092677
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 6fcde88897dd420f8aa74ca687d3feb4
+run_name: casual-foal-196
+run_uuid: 6fcde88897dd420f8aa74ca687d3feb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732673681358
+status: 3
+tags: []
+user_id: vitor

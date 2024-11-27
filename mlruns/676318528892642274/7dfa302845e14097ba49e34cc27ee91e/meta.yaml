@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/7dfa302845e14097ba49e34cc27ee91e/artifacts
+end_time: 1732677259319
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 7dfa302845e14097ba49e34cc27ee91e
+run_name: carefree-asp-222
+run_uuid: 7dfa302845e14097ba49e34cc27ee91e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732677231614
+status: 3
+tags: []
+user_id: vitor

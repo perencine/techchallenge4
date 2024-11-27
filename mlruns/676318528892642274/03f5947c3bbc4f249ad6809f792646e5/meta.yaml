@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/03f5947c3bbc4f249ad6809f792646e5/artifacts
+end_time: 1732673681156
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 03f5947c3bbc4f249ad6809f792646e5
+run_name: worried-snipe-603
+run_uuid: 03f5947c3bbc4f249ad6809f792646e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732673648072
+status: 3
+tags: []
+user_id: vitor

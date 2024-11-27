@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/065b623a8b3c4ef5901b090a904e908a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 065b623a8b3c4ef5901b090a904e908a
+run_name: inquisitive-ox-159
+run_uuid: 065b623a8b3c4ef5901b090a904e908a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732677259396
+status: 1
+tags: []
+user_id: vitor

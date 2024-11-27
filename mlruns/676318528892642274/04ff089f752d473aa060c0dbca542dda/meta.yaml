@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/04ff089f752d473aa060c0dbca542dda/artifacts
+end_time: 1732669043625
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 04ff089f752d473aa060c0dbca542dda
+run_name: smiling-rat-552
+run_uuid: 04ff089f752d473aa060c0dbca542dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732669043595
+status: 4
+tags: []
+user_id: vitor

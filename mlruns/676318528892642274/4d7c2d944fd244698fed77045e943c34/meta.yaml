@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/4d7c2d944fd244698fed77045e943c34/artifacts
+end_time: 1732671733374
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: 4d7c2d944fd244698fed77045e943c34
+run_name: bold-cat-260
+run_uuid: 4d7c2d944fd244698fed77045e943c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732671672245
+status: 4
+tags: []
+user_id: vitor

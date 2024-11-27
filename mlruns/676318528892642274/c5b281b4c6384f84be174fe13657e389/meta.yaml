@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/c5b281b4c6384f84be174fe13657e389/artifacts
+end_time: 1732669281908
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: c5b281b4c6384f84be174fe13657e389
+run_name: angry-bat-178
+run_uuid: c5b281b4c6384f84be174fe13657e389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732669223337
+status: 3
+tags: []
+user_id: vitor

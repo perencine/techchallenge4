@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/676318528892642274/a2e1246155f54f468e0f63134990f3d6/artifacts
+end_time: 1732674124657
+entry_point_name: ''
+experiment_id: '676318528892642274'
+lifecycle_stage: active
+run_id: a2e1246155f54f468e0f63134990f3d6
+run_name: marvelous-snail-535
+run_uuid: a2e1246155f54f468e0f63134990f3d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732674097070
+status: 3
+tags: []
+user_id: vitor
