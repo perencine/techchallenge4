@@ -1,4 +1,4 @@
-# Projeto API Preço Ação Apple - Tech Challenge 4
+# API Preço Ação Apple - Tech Challenge 4
 
 ### Criadores: Vitor Mamede | Vitor Perencine
 ### Grupo 86
