@@ -7,9 +7,7 @@
 
 ## Objetivo
 
-Este projeto foi desenvolvido para que usuários pudessem consultar via API o valor da previsão de fechamento da ação AAPL, da Apple, em determinado dia. Para tal, deve-se passar os parâmetros: Data, Valor de Abertura, Valor Máximo, Valor Mínimo e Volume Operado, e sua formatação será devidamente explicada nos tópicos abaixo.
-
-Para que a API pudesse retornar a previsão de fechamento da ação, foi utilizado um modelo de Deep Learning, treinado com a base histórica de 7 anos da ação. A API fornece os parâmetros para o modelo, que devolve a previsão de fechamento do valor no dia fornecido.
+Este projeto foi desenvolvido para que usuários pudessem consultar via API o valor da previsão de fechamento da ação AAPL (Apple), em determinado dia. A previsão dos valores é realizada por um modelo de Deep Learning, treinado com a base histórica de 7 anos da ação, e é realizada a partir dos parâmetros que o usuário fornece no ato da requisição.
 
 <br/>
 
@@ -17,7 +15,9 @@ Para que a API pudesse retornar a previsão de fechamento da ação, foi utiliza
 
 Esta API foi desenvolvida em Python, utilizando o framework FastAPI.
 
-O modelo escolhido e treinado foi o LSTM, por sua capacidade em lidar com valores contínuos de séries temporais. Ele foi treinado com dados de jan/2017 a dez/2023, que foram obtidos através da biblioteca `yfinance`do python.
+O modelo de Deep Learning utilizado é um LSTM (Long Short-Term Memory), reconhecido por sua capacidade em lidar com valores contínuos de séries temporais. Ele foi treinado com dados históricos das ações da Apple (AAPL), abrangendo o período de janeiro de 2017 a dezembro de 2023, obtidos por meio da biblioteca `yfinance` do Python.
+
+Para obter a previsão do preço de fechamento da ação, é necessário fornecer os seguintes parâmetros: Data, Valor de Abertura, Valor Máximo, Valor Mínimo e Volume Operado. A formatação correta desses dados está detalhada nos tópicos a seguir.
 
 <br/>
 
@@ -28,6 +28,7 @@ https://github.com/perencine/techchallenge4
 <br/>
 
 ## Endpoints disponibilizados (editar se preciso)
+
 Devem ser chamados com requisições GET, a fim de se obter os dados desejados. Segue a relação de dados desejados e endpoints:
 
 Auth : /token/
