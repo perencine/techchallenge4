@@ -33,7 +33,7 @@ Devem ser chamados com requisições GET, a fim de se obter os dados desejados. 
 
 Auth : /token/
 
-Previsão de fechamento: /forecast/
+Previsão de fechamento: /close_prediction/
 
 <br/>
 
