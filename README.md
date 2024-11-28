@@ -123,7 +123,7 @@ heroku ps:scale web=1
 Heroku fornecerá um link para a aplicação. Acesse o link para ver sua API em funcionamento na nuvem.
 https://api-tech-challenge-fiap-ba4acd78ab5d.herokuapp.com/docs
 
-# Arquitetura do projeto
+# Arquitetura do projeto (editar)
 <br/>
 
 ![apitechchallenge drawio](https://github.com/mamedevitor/techchallenge/assets/83721127/2494997e-96d8-41e2-82ab-7816b7c9cb8f)
@@ -131,21 +131,21 @@ https://api-tech-challenge-fiap-ba4acd78ab5d.herokuapp.com/docs
 # Cenário de Utilização (editar)
 
 
-### Objetivo: 
-Imaginando que o usuário será um vinicultor afim de analisar a produtividade de diferentes variedades de uvas ao longo dos anos para tomar decisões informadas sobre plantio e produção.
+### Introdução:
 
-### Processo:
+Um consumidor de informações de ações da Apple consulta tais dados diariamente na internet, avaliando quando deve comprar ou vender ações a partir de dados gerais da ação (valor de abertura, máxima do dia, mínima, etc)
 
-Login: Vinicultor faz login e obtém um token JWT.
+### Problema
 
-### Consulta de Dados:
-1. Vinicultor faz uma requisição para o endpoint /producao/ para obter dados históricos de produção.
-2. Utiliza filtros para analisar a produtividade de um determinado período.
+O usuário se sente inseguro sobre qual decisão tomar - comprar, vender ou manter suas posições, dado a variabilidade do preço da ação.
 
-3. Análise e Decisão:
-Com base nos dados recebidos, vinicultor pode decidir ajustar o cultivo de certas variedades de uvas, planejar a produção de vinho, ou fazer previsões para a próxima safra.
-Essa arquitetura proporciona uma maneira eficiente e segura de fornecer acesso a dados valiosos, suportando a tomada de decisões baseadas em dados para vinicultores e outros usuários interessados.
+### Solução:
 
+O usuário utiliza a API para predizer o valor de fechamento da ação, o que o auxilia na tomada de decisão. Para tal, ele deve fazer login no endpoint `/token` e obter um token JWT. Em seguida, deve consultar o endpoint `/close_prediction`, passando as informações requeridas, a fim de se obter a previsão.
+
+### Benefícios:
+
+Essa arquitetura proporciona uma maneira eficiente e segura de fornecer previsões de fechamento da ação AAPL. O usuário, munido desta previsão e das demais informações que já possuia, toma decisões mais seguras e baseadas em dados.
 
 <br/>
 <br/>
