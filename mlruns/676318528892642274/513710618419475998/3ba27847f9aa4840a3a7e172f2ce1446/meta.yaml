@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/513710618419475998/3ba27847f9aa4840a3a7e172f2ce1446/artifacts
+end_time: 1732993446420
+entry_point_name: ''
+experiment_id: '513710618419475998'
+lifecycle_stage: active
+run_id: 3ba27847f9aa4840a3a7e172f2ce1446
+run_name: illustrious-wren-524
+run_uuid: 3ba27847f9aa4840a3a7e172f2ce1446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732993322468
+status: 3
+tags: []
+user_id: vitor

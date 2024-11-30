@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Desktop/py_projects/deep_learning/techchallenge4/mlruns/513710618419475998/506bd4be50674201be9161163232e5ab/artifacts
+end_time: 1732993512905
+entry_point_name: ''
+experiment_id: '513710618419475998'
+lifecycle_stage: active
+run_id: 506bd4be50674201be9161163232e5ab
+run_name: honorable-shoat-661
+run_uuid: 506bd4be50674201be9161163232e5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732993506293
+status: 3
+tags: []
+user_id: vitor
